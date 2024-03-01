@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1004598100883-fjh3iqk4mv60fff4qc1hjs8a1c0ckj2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1004598100883-fjh3iqk4mv60fff4qc1hjs8a1c0ckj2r</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1004598100883-eupu7fnn7l7f69ildbgkmo19591qsvqc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDobs6c0sznrxjTTHPUs76fIJYahTS-JAE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1004598100883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Ibc.ibcTelecom.nbt</string>
+	<key>PROJECT_ID</key>
+	<string>ibc-telecom</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ibc-telecom.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1004598100883:ios:36be030675430b310c1e66</string>
+</dict>
+</plist>
